@@ -106,3 +106,4 @@ Capstone course focusing on end-to-end analytics project design and deployment.
 |-- DAAN_871/
 |-- DAAN_888/
 
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jensoto/github-readme-stats#gh-dark-mode-only)
