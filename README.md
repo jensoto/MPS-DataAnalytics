@@ -94,7 +94,8 @@ Capstone course focusing on end-to-end analytics project design and deployment.
 **Capstone Project:**
 - Design and Implementation of an Analytics Solution for a Real-World Business Problem
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jensoto/github-readme-stats#gh-dark-mode-only)
+[![Jen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jensoto&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jensoto/github-readme-stats#gh-dark-mode-only)
+[![Jen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jensoto&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jensoto/github-readme-stats#gh-light-mode-only)
 
 ## Repository Structure
 ```plaintext
