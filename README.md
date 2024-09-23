@@ -4,7 +4,17 @@ Repository for Coursework and Projects
 ## Overview
 This repository contains coursework, assignments, and projects completed during my Master of Professional Studies in Data Analytics at Penn State University. The courses span various topics such as data collection, cleaning, databases, predictive analytics, and data-driven decision-making.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jensoto&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&layout=compact)
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ## Course List
 
