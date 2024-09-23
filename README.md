@@ -4,6 +4,8 @@ Repository for Coursework and Projects
 ## Overview
 This repository contains coursework, assignments, and projects completed during my Master of Professional Studies in Data Analytics at Penn State University. The courses span various topics such as data collection, cleaning, databases, predictive analytics, and data-driven decision-making.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&layout=compact)
+
 ## Course List
 
 ### DAAN 822: Data Collection and Cleaning
@@ -94,8 +96,7 @@ Capstone course focusing on end-to-end analytics project design and deployment.
 **Capstone Project:**
 - Design and Implementation of an Analytics Solution for a Real-World Business Problem
 
-[![Jen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jensoto&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jensoto/github-readme-stats#gh-dark-mode-only)
-[![Jen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jensoto&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jensoto/github-readme-stats#gh-light-mode-only)
+
 
 ## Repository Structure
 ```plaintext
