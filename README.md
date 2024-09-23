@@ -1,20 +1,10 @@
 # Data Analytics - Penn State University
-Repository for Coursework and Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jensoto&show_owner=true&theme=holi&repo=MPS-DataAnalytics)](https://github.com/jensoto/MPS-DataAnalytics)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&theme=holi&layout=compact)
 
 ## Overview
 This repository contains coursework, assignments, and projects completed during my Master of Professional Studies in Data Analytics at Penn State University. The courses span various topics such as data collection, cleaning, databases, predictive analytics, and data-driven decision-making.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jensoto&repo=MPS-DataAnalytics)](https://github.com/jensoto/MPS-DataAnalytics)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&layout=compact)
-
-
-
-<a href="https://github.com/github.com/jensoto/MPS-DataAnalytics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jensoto&repo=MPS-DataAnalytics" />
-</a>
-<a href="https://github.com/github.com/jensoto/MPS-DataAnalytics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jensoto&repo=MPS-DataAnalytics" />
-</a>
 
 ## Course List
 
