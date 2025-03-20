@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&theme=holi&layout=compact)
 
 ## Overview
-This repository contains coursework, assignments, and projects completed during my Master of Professional Studies in Data Analytics at Penn State University. The courses span various topics such as data collection, cleaning, databases, predictive analytics, and data-driven decision-making.
+This repository contains coursework and projects completed during my Master of Professional Studies in Data Analytics at Penn State University. The courses span various topics such as data collection, cleaning, databases, predictive analytics, and data-driven decision-making.
 
 ## Course List
 
@@ -96,6 +96,28 @@ Capstone course focusing on end-to-end analytics project design and deployment.
 **Capstone Project:**
 - Design and Implementation of an Analytics Solution for a Real-World Business Problem
 
+### Technologies Used:
+	•	Python (pandas, NumPy, BeautifulSoup, requests)
+	•	SQL
+	•	PostgreSQL / MySQL
+	•	ETL tools and frameworks
+	•	Jupyter Notebooks
+
+### How to Use
+
+To run the projects locally, ensure you have Python installed along with the required libraries. You can install the necessary packages using the following:
+
+### bash:
+  pip install -r requirements.txt
+
+For database-related projects, make sure to configure your database settings as per the project instructions.
+
+### Contact
+For any queries or collaborations, feel free to reach out at jeniffer.soto1@gmail.com.
+
+⸻
+
+© 2024 Jeniffer Soto Perez - Master of Professional Studies in Data Analytics - Penn State University
 
 
 ## Repository Structure
