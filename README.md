@@ -1,4 +1,4 @@
-# Data Analytics - Penn State University
+# From Theory to Practice: My Penn State Data Analytics Portfolio
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jensoto&show_owner=true&theme=holi&repo=MPS-DataAnalytics)](https://github.com/jensoto/MPS-DataAnalytics)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&theme=holi&layout=compact)
