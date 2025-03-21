@@ -1,6 +1,8 @@
 
 # 📊 From Theory to Practice: My Penn State Data Analytics Portfolio
 
+![alt text](https://raw.githubusercontent.com/jensoto/MPS-DataAnalytics/master/media/banner.png)
+
 ## 📚 Overview
 
 The **Master of Professional Studies (MPS) in Data Analytics** at **Penn State University** is a graduate program designed to develop technical, analytical, and decision-making skills for managing and interpreting complex data. Offered through Penn State’s World Campus and the College of IST, the program emphasizes real-world applications across industries.
