@@ -4,7 +4,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&theme=holi&layout=compact)
 
 ## Overview
-This repository contains coursework and projects completed during my Master of Professional Studies in Data Analytics at Penn State University. The courses span various topics such as data collection, cleaning, databases, predictive analytics, and data-driven decision-making.
+The Master of Professional Studies (MPS) in Data Analytics at Penn State University is a graduate program designed to equip students with the technical, analytical, and decision-making skills to manage and interpret complex data. Offered through Penn State’s World Campus and the College of Information Sciences and Technology (IST), the program focuses on real-world applications of data analytics across various industries.
+
+**Key Features of the Program:**
+- Interdisciplinary Approach – Covers data science, machine learning, databases, data visualization, and decision analytics.
+- Hands-on Experience – Includes practical projects, case studies, and a capstone project.
+- Industry-Relevant Skills – Focuses on Python, SQL, Tableau, cloud computing, predictive modeling, and data mining.
+- Capstone Course – A final project that integrates the knowledge and skills learned throughout the program.
+
+
+This repository contains coursework and projects completed during my graduate program. The courses span various topics such as data collection, cleaning, databases, predictive analytics, and data-driven decision-making.
 
 ## Course List
 
@@ -107,9 +116,16 @@ Capstone course focusing on end-to-end analytics project design and deployment.
 
 To run the projects locally, ensure you have Python installed along with the required libraries. You can install the necessary packages using the following:
 
-### bash:
-  pip install -r requirements.txt
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/repository-name.git
 
+# Navigate to the repository
+cd repository-name
+
+# Install dependencies
+pip install -r requirements.txt
+```
 For database-related projects, make sure to configure your database settings as per the project instructions.
 
 ### Contact
