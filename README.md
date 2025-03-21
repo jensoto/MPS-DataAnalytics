@@ -1,143 +1,160 @@
-# From Theory to Practice: My Penn State Data Analytics Portfolio
 
-## Overview
-The Master of Professional Studies (MPS) in Data Analytics at Penn State University is a graduate program designed to equip students with the technical, analytical, and decision-making skills to manage and interpret complex data. Offered through Penn State’s World Campus and the College of Information Sciences and Technology (IST), the program focuses on real-world applications of data analytics across various industries.
+# 📊 From Theory to Practice: My Penn State Data Analytics Portfolio
 
-**Key Features of the Program:**
-- Interdisciplinary Approach – Covers data science, machine learning, databases, data visualization, and decision analytics.
-- Hands-on Experience – Includes practical projects, case studies, and a capstone project.
-- Industry-Relevant Skills – Focuses on Python, SQL, Tableau, cloud computing, predictive modeling, and data mining.
-- Capstone Course – A final project that integrates the knowledge and skills learned throughout the program.
+## 📚 Overview
 
-This repository contains coursework and projects completed during my graduate program. The courses span various topics such as data collection, cleaning, databases, predictive analytics, and data-driven decision-making.
+The **Master of Professional Studies (MPS) in Data Analytics** at **Penn State University** is a graduate program designed to develop technical, analytical, and decision-making skills for managing and interpreting complex data. Offered through Penn State’s World Campus and the College of IST, the program emphasizes real-world applications across industries.
 
-## Course List
+### 🔍 Program Highlights
 
-### DAAN 822: Data Collection and Cleaning
-Covers methods for collecting, cleaning, and preparing data for analysis.
-- Web scraping, APIs, and data automation
-- Data wrangling and transformation
-- Handling missing or incomplete data
+- **Interdisciplinary Curriculum** – Covers data science, machine learning, databases, data visualization, and decision analytics  
+- **Hands-on Experience** – Projects, case studies, and a capstone simulation  
+- **Industry-Ready Skills** – Python, SQL, Tableau, cloud computing, predictive modeling, and data mining  
+- **Capstone Project** – Integration of learned concepts into a real-world business solution  
 
-**Key Projects:**
-- Web Scraping Financial Data
-- Data Cleaning and Transformation of Survey Data
+This repository showcases coursework and projects completed throughout the program, covering data collection, databases, predictive analytics, and decision-making.
 
-### DAAN 825: Large-Scale Databases and Warehouses
-Focuses on the design and management of large-scale databases and data warehouses.
-- RDBMS concepts and SQL
-- ETL processes
-- Database performance optimization
+## 📘 Course Highlights & Projects
 
-**Key Projects:**
-- Relational Database Design and Optimization
-- Designing a Data Warehouse for Retail Data
+### `DAAN 822: Data Collection and Cleaning`
+**Topics Covered:**
+- Web scraping, APIs, data automation  
+- Data wrangling and transformation  
+- Handling missing or incomplete data  
 
-### DAAN 881: Data-Driven Decision Making
-Explores techniques for leveraging data to make informed business decisions.
-- Decision-making frameworks
-- Predictive modeling and analytics
-- Simulation and scenario analysis
+**Projects:**
+- Web Scraping Financial Data  
+- Survey Data Cleaning & Transformation  
 
-**Key Projects:**
-- Predictive Model for Business Decision-Making
-- Scenario-Based Decision Simulations
+### `DAAN 825: Large-Scale Databases and Warehouses`
+**Topics Covered:**
+- SQL and RDBMS concepts  
+- ETL pipelines  
+- Database performance optimization  
 
-### IE 575: Foundations of Predictive Analytics
-Provides fundamental knowledge of predictive analytics using machine learning techniques.
-- Regression, classification, and clustering methods
-- Feature engineering
-- Model evaluation and validation
+**Projects:**
+- Relational Database Design  
+- Retail Data Warehouse  
 
-**Key Projects:**
-- Predictive Model for Customer Churn
-- Classification of Medical Data
+### `DAAN 881: Data-Driven Decision Making`
+**Topics Covered:**
+- Business decision frameworks  
+- Predictive modeling and scenario analysis  
 
-### INSC 521: Database Design Concepts
-Covers foundational concepts in database architecture, design, and administration.
-- ER modeling
-- Normalization and database schema design
-- Advanced querying
+**Projects:**
+- Business Decision Predictive Model  
+- Scenario-Based Simulation  
 
-**Key Projects:**
-- ER Model for Hospital Management System
-- Query Optimization in a Large-Scale Database
+### `IE 575: Foundations of Predictive Analytics`
+**Topics Covered:**
+- Regression, classification, clustering  
+- Feature engineering  
+- Model evaluation  
 
-### SWENG 545: Data Mining
-Introduces data mining concepts and techniques for extracting valuable insights from data.
-- Association rule mining
-- Clustering, classification, and outlier detection
-- Text and web mining
+**Projects:**
+- Customer Churn Prediction  
+- Medical Data Classification  
 
-**Key Projects:**
-- Market Basket Analysis using Association Rules
-- Sentiment Analysis on Social Media Data
+### `INSC 521: Database Design Concepts`
+**Topics Covered:**
+- ER modeling and normalization  
+- Schema design  
+- Advanced SQL queries  
 
-### DAAN 862: Analytics Programming in Python
-Focuses on programming techniques and libraries for analytics using Python.
-- pandas, NumPy, and scikit-learn
-- Data manipulation and preprocessing
-- Model development and testing
+**Projects:**
+- Hospital ER Model  
+- Query Optimization on Large Dataset  
 
-**Key Projects:**
-- Building a Predictive Model in Python
-- Data Preprocessing and Feature Engineering for a Kaggle Competition
+### `SWENG 545: Data Mining`
+**Topics Covered:**
+- Association rule mining  
+- Text and web mining  
+- Outlier detection and clustering  
 
-### DAAN 871: Data Visualization
-Teaches techniques for creating effective data visualizations to convey insights.
-- Dashboard design and storytelling with data
-- Data visualization tools: Tableau, matplotlib, and seaborn
+**Projects:**
+- Market Basket Analysis  
+- Social Media Sentiment Analysis  
 
-**Key Projects:**
-- Interactive Dashboard for Business KPIs
-- Visualization of Economic Indicators with Python
+### `DAAN 862: Analytics Programming in Python`
+**Topics Covered:**
+- `pandas`, `NumPy`, `scikit-learn`  
+- Data manipulation and modeling workflows  
 
-### DAAN 888: Analytics Design and Implementation
-Capstone course focusing on end-to-end analytics project design and deployment.
-- End-to-end analytics lifecycle
-- Agile analytics development
-- Deployment and implementation strategies
+**Projects:**
+- Predictive Modeling in Python  
+- Feature Engineering for Kaggle Dataset  
 
-**Capstone Project:**
-- Design and Implementation of an Analytics Solution for a Real-World Business Problem
+### `DAAN 871: Data Visualization`
+**Topics Covered:**
+- Data storytelling and dashboard design  
+- Tools: Tableau, matplotlib, seaborn  
 
-## Repository Structure
+**Projects:**
+- Business KPI Interactive Dashboard  
+- Economic Indicator Visualizations  
+
+### `DAAN 888: Analytics Design and Implementation (Capstone)`
+**Topics Covered:**
+- End-to-end analytics lifecycle  
+- Agile project development and deployment  
+
+**Capstone:**
+- Real-World Business Analytics Solution  
+
+## 📁 Repository Structure
+
 ```plaintext
-|-- DAAN_822/
-|-- DAAN_825/
-|-- DAAN_881/
-|-- IE_575/
-|-- INSC_521/
-|-- SWENG_545/
-|-- DAAN_862/
-|-- DAAN_871/
-|-- DAAN_888/
+MPS-DataAnalytics/
+├── DAAN_822/
+├── DAAN_825/
+├── DAAN_881/
+├── IE_575/
+├── INSC_521/
+├── SWENG_545/
+├── DAAN_862/
+├── DAAN_871/
+└── DAAN_888/
 ```
-## Technologies Used:
-	•	Python (pandas, NumPy, BeautifulSoup, requests)
-	•	SQL
-	•	PostgreSQL / MySQL
-	•	ETL tools and frameworks
-	•	Jupyter Notebooks
-## How to Use
-To run the projects locally, please ensure you have Python installed and the required libraries. For database-related projects, configure your database settings using the project instructions. You can install the necessary packages using the following:
 
-```bash
-# Clone the repository
-git clone https://github.com//jensoto/MPS-DataAnalytics.git
+## ⚙️ Technologies Used
 
-# Navigate to the repository
-cd MPS-DataAnalytics
+- **Python**: `pandas`, `NumPy`, `scikit-learn`, `BeautifulSoup`, `requests`  
+- **SQL**: PostgreSQL / MySQL  
+- **ETL Tools & Frameworks**  
+- **Jupyter Notebooks**  
+- **Tableau**, **matplotlib**, **seaborn**
 
-# Install dependencies
-pip install -r requirements.txt
-```
-## Contact
-For queries or collaborations, feel free to reach out at jeniffer.soto1@gmail.com.
+## 🚀 How to Use
 
-⸻
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/jensoto/MPS-DataAnalytics.git
+   ```
 
-© 2025 Jeniffer Soto Perez - Master of Professional Studies in Data Analytics - Penn State University
+2. **Navigate to the project**
+   ```bash
+   cd MPS-DataAnalytics
+   ```
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jensoto&show_owner=true&theme=holi&repo=MPS-DataAnalytics)](https://github.com/jensoto/MPS-DataAnalytics)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&theme=holi&layout=compact)
+3. **Install required packages**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Set up databases** (for SQL projects, see project-specific README or notebooks)
+
+## 📬 Contact
+
+For questions or collaborations:  
+📧 jeniffer.soto1@gmail.com
+
+## 🧠 About the Author
+
+**Jeniffer Soto Perez**  
+Master of Professional Studies in Data Analytics  
+Penn State University, 2025  
+
+## 📈 GitHub Stats
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jensoto&repo=MPS-DataAnalytics&theme=holi)](https://github.com/jensoto/MPS-DataAnalytics)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&layout=compact&theme=holi)
