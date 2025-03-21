@@ -12,7 +12,6 @@ The Master of Professional Studies (MPS) in Data Analytics at Penn State Univers
 - Industry-Relevant Skills – Focuses on Python, SQL, Tableau, cloud computing, predictive modeling, and data mining.
 - Capstone Course – A final project that integrates the knowledge and skills learned throughout the program.
 
-
 This repository contains coursework and projects completed during my graduate program. The courses span various topics such as data collection, cleaning, databases, predictive analytics, and data-driven decision-making.
 
 ## Course List
@@ -112,30 +111,6 @@ Capstone course focusing on end-to-end analytics project design and deployment.
 	•	ETL tools and frameworks
 	•	Jupyter Notebooks
 
-### How to Use
-
-To run the projects locally, ensure you have Python installed along with the required libraries. You can install the necessary packages using the following:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/repository-name.git
-
-# Navigate to the repository
-cd repository-name
-
-# Install dependencies
-pip install -r requirements.txt
-```
-For database-related projects, make sure to configure your database settings as per the project instructions.
-
-### Contact
-For any queries or collaborations, feel free to reach out at jeniffer.soto1@gmail.com.
-
-⸻
-
-© 2024 Jeniffer Soto Perez - Master of Professional Studies in Data Analytics - Penn State University
-
-
 ## Repository Structure
 ```plaintext
 |-- DAAN_822/
@@ -147,3 +122,26 @@ For any queries or collaborations, feel free to reach out at jeniffer.soto1@gmai
 |-- DAAN_862/
 |-- DAAN_871/
 |-- DAAN_888/
+```
+### How to Use
+
+To run the projects locally, ensure you have Python installed and the required libraries. You can install the necessary packages using the following:
+
+```bash
+# Clone the repository
+git clone https://github.com//jensoto/MPS-DataAnalytics.git
+
+# Navigate to the repository
+cd MPS-DataAnalytics
+
+# Install dependencies
+pip install -r requirements.txt
+```
+For database-related projects, configure your database settings using the project instructions.
+
+### Contact
+For queries or collaborations, feel free to reach out at jeniffer.soto1@gmail.com.
+
+⸻
+
+© 2024 Jeniffer Soto Perez - Master of Professional Studies in Data Analytics - Penn State University
