@@ -1,7 +1,5 @@
 
-# 📊 From Theory to Practice: My Penn State Data Analytics Portfolio
-
-![alt text](https://raw.githubusercontent.com/jensoto/MPS-DataAnalytics/master/media/banner.png)
+![alt text](https://raw.githubusercontent.com/jensoto/MPS-DataAnalytics/master/media/portfolio_banner2.png)
 
 ## 📚 Overview
 
