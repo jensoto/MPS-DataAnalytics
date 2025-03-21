@@ -1,8 +1,5 @@
 # From Theory to Practice: My Penn State Data Analytics Portfolio
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jensoto&show_owner=true&theme=holi&repo=MPS-DataAnalytics)](https://github.com/jensoto/MPS-DataAnalytics)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&theme=holi&layout=compact)
-
 ## Overview
 The Master of Professional Studies (MPS) in Data Analytics at Penn State University is a graduate program designed to equip students with the technical, analytical, and decision-making skills to manage and interpret complex data. Offered through Penn State’s World Campus and the College of Information Sciences and Technology (IST), the program focuses on real-world applications of data analytics across various industries.
 
@@ -104,13 +101,6 @@ Capstone course focusing on end-to-end analytics project design and deployment.
 **Capstone Project:**
 - Design and Implementation of an Analytics Solution for a Real-World Business Problem
 
-### Technologies Used:
-	•	Python (pandas, NumPy, BeautifulSoup, requests)
-	•	SQL
-	•	PostgreSQL / MySQL
-	•	ETL tools and frameworks
-	•	Jupyter Notebooks
-
 ## Repository Structure
 ```plaintext
 |-- DAAN_822/
@@ -123,9 +113,14 @@ Capstone course focusing on end-to-end analytics project design and deployment.
 |-- DAAN_871/
 |-- DAAN_888/
 ```
-### How to Use
-
-To run the projects locally, ensure you have Python installed and the required libraries. You can install the necessary packages using the following:
+## Technologies Used:
+	•	Python (pandas, NumPy, BeautifulSoup, requests)
+	•	SQL
+	•	PostgreSQL / MySQL
+	•	ETL tools and frameworks
+	•	Jupyter Notebooks
+## How to Use
+To run the projects locally, please ensure you have Python installed and the required libraries. For database-related projects, configure your database settings using the project instructions. You can install the necessary packages using the following:
 
 ```bash
 # Clone the repository
@@ -137,11 +132,12 @@ cd MPS-DataAnalytics
 # Install dependencies
 pip install -r requirements.txt
 ```
-For database-related projects, configure your database settings using the project instructions.
-
-### Contact
+## Contact
 For queries or collaborations, feel free to reach out at jeniffer.soto1@gmail.com.
 
 ⸻
 
-© 2024 Jeniffer Soto Perez - Master of Professional Studies in Data Analytics - Penn State University
+© 2025 Jeniffer Soto Perez - Master of Professional Studies in Data Analytics - Penn State University
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jensoto&show_owner=true&theme=holi&repo=MPS-DataAnalytics)](https://github.com/jensoto/MPS-DataAnalytics)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&theme=holi&layout=compact)
