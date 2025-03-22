@@ -154,7 +154,5 @@ For questions or collaborations:
 Master of Professional Studies in Data Analytics  
 Penn State University, 2025  
 
-## 📈 GitHub Stats
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jensoto&repo=jensoto&theme=holi)](https://github.com/jensoto/jensoto)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensoto&layout=compact&theme=holi)
