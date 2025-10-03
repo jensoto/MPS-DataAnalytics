@@ -124,25 +124,6 @@ MPS-DataAnalytics/
 - **Jupyter Notebooks**  
 - **Tableau**, **matplotlib**, **seaborn**
 
-## 🚀 How to Use
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/jensoto/MPS-DataAnalytics.git
-   ```
-
-2. **Navigate to the project**
-   ```bash
-   cd MPS-DataAnalytics
-   ```
-
-3. **Install required packages**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Set up databases** (for SQL projects, see project-specific README or notebooks)
-
 ## 📬 Contact
 
 For questions or collaborations:  
